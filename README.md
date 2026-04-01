@@ -48,8 +48,8 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](aswinrajprporkulath@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aswin-raj-p-r-4b6a75152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEPoTzITySwunBneotg6feg%3D%3D)6*
+* 📧 Email: (aswinrajprporkulath@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aswin-raj-p-r-4b6a75152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEPoTzITySwunBneotg6feg%3D%3D)
 * 🧑‍💻 GitHub: https://github.com/AswinRajPR8891
 
 ---
