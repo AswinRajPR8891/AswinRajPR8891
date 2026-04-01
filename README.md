@@ -33,10 +33,9 @@
 
 ## 📌 Projects & Work
 
-🔹 Homecare Project – Providing consultation services at client homes
 🔹 Internship – Kerala State Forensic Science Laboratory
 🔹 Research – Poroscopy in fingerprint identification
-
+🔹 Cyber Security Student Trainee – Offenso Hackers Acadamy
 ---
 
 ## 📈 Currently Learning
@@ -49,9 +48,9 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🧑‍💻 GitHub: https://github.com/your-username
+* 📧 Email: [your-email@example.com](aswinrajprporkulath@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aswin-raj-p-r-4b6a75152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEPoTzITySwunBneotg6feg%3D%3D)6*
+* 🧑‍💻 GitHub: https://github.com/AswinRajPR8891
 
 ---
 
